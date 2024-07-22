@@ -1,4 +1,4 @@
-# Concrete-Compressive-Strength-Prediction
+# Cement-Strength-Prediction
 Description and Project Overview
 This project will be based on a dataset obtained from the UCI Repository. The dataset consists of 1030 observations under 9 attributes.
 The attributes consist of 8 quantitative inputs and 1 quantitative output.
